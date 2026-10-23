@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g" cx="0.85" cy="0.15" r="0.7"><stop offset="0" stop-color="#c6f135" stop-opacity=".28"/><stop offset="1" stop-color="#c6f135" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#0a0a0b"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="1199" height="629" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+  <g transform="translate(80 80)">
+    <rect width="300" height="40" rx="20" fill="#ffffff" fill-opacity=".04" stroke="#ffffff" stroke-opacity=".14"/>
+    <circle cx="22" cy="20" r="6" fill="#3ddc84"/>
+    <text x="40" y="26" font-family="JetBrains Mono" font-size="17" fill="#ededef">Open to opportunities</text>
+  </g>
+  <text x="76" y="300" font-family="Space Grotesk" font-weight="600" font-size="132" letter-spacing="-6" fill="#ededef">Mandir Das</text>
+  <text x="80" y="380" font-family="Space Grotesk" font-weight="500" font-size="44" letter-spacing="-1.5" fill="#9a9aa3">Flutter engineer building <tspan fill="#c6f135">FinTech</tspan> and</text>
+  <text x="80" y="436" font-family="Space Grotesk" font-weight="500" font-size="44" letter-spacing="-1.5" fill="#9a9aa3">cloud-connected mobile apps.</text>
+  <line x1="80" y1="510" x2="1120" y2="510" stroke="#ffffff" stroke-opacity=".08"/>
+  <text x="80" y="556" font-family="JetBrains Mono" font-size="20" fill="#85858e">FLUTTER · BLOC · AWS · FINTECH</text>
+  <text x="1120" y="556" text-anchor="end" font-family="JetBrains Mono" font-size="20" fill="#c6f135">Siliguri, IN</text>
+</svg>
